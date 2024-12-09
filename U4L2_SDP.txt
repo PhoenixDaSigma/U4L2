@@ -1,0 +1,1 @@
+Stacks' "Last In - First Out" property makes it very easy to reverse a string.
